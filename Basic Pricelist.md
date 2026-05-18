@@ -36,6 +36,9 @@
 
 ---
 
+
+[⬆️ Back to Top](#-the-far-yonder-basics-pricelist)
+
 ## ⚔️ Basic Weapons
 
 | Name                     | Cost  | Dmg    | Weight  | Properties*              |
@@ -97,6 +100,9 @@
     V = Versatile
 
 ---
+
+
+[⬆️ Back to Top](#-the-far-yonder-basics-pricelist)
 
 ## 🎒 Adventuring Gear
 
@@ -208,6 +214,9 @@
 
 ---
 
+
+[⬆️ Back to Top](#-the-far-yonder-basics-pricelist)
+
 ## 🔨 Tools
 
 | Item                    | Cost   | Weight  |
@@ -253,6 +262,9 @@
 | Poisoner's kit          | 50 gp  | 2 lb.   |
 | Thieves' tools          | 25 gp  | 1 lb.   |
 
+
+[⬆️ Back to Top](#-the-far-yonder-basics-pricelist)
+
 ## 🛏️ Lodging
 
 | Room            | Price          |
@@ -260,6 +272,9 @@
 | Common Room     | 1gp per night  |
 | Veteran's Suite | 7gp per night  |
 | Nobel's Suite   | 15gp per night |
+
+
+[⬆️ Back to Top](#-the-far-yonder-basics-pricelist)
 
 ## 📦 Storage
 
@@ -275,3 +290,6 @@
 - 500gp = 1 item
 
 - Magical Chest is for magical, cursed and dangerous objects.
+
+
+[⬆️ Back to Top](#-the-far-yonder-basics-pricelist)
