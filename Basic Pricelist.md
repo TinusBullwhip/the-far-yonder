@@ -1,6 +1,18 @@
-# The Far Yonder Basics Pricelist
+# 🏰 The Far Yonder Basics Pricelist
 
-#### Basic Armor
+## 📚 Index
+
+- [🛡️ Basic Armor](#️-basic-armor)
+- [⚔️ Basic Weapons](#️-basic-weapons)
+- [🎒 Adventuring Gear](#-adventuring-gear)
+- [🔨 Tools](#-tools)
+- [🛏️ Lodging](#️-lodging)
+- [📦 Storage](#-storage)
+
+---
+
+
+## 🛡️ Basic Armor
 
 | Armor           | Cost     | AC                   | Weight |
 | --------------- | -------- | -------------------- | ------ |
@@ -24,9 +36,7 @@
 
 ---
 
-
-
-#### Basic Weapons
+## ⚔️ Basic Weapons
 
 | Name                     | Cost  | Dmg    | Weight  | Properties*              |
 | ------------------------ | ----- | ------ | ------- | ------------------------ |
@@ -88,9 +98,7 @@
 
 ---
 
-
-
-#### Adventuring gear:
+## 🎒 Adventuring Gear
 
 | Item                         | Cost     | Weight       |
 | ---------------------------- | -------- | ------------ |
@@ -200,9 +208,7 @@
 
 ---
 
-
-
-#### Tools:
+## 🔨 Tools
 
 | Item                    | Cost   | Weight  |
 | ----------------------- | ------ | ------- |
@@ -246,3 +252,26 @@
 | Navigator's tools       | 25 gp  | 2 lb.   |
 | Poisoner's kit          | 50 gp  | 2 lb.   |
 | Thieves' tools          | 25 gp  | 1 lb.   |
+
+## 🛏️ Lodging
+
+| Room            | Price          |
+| --------------- | -------------- |
+| Common Room     | 1gp per night  |
+| Veteran's Suite | 7gp per night  |
+| Nobel's Suite   | 15gp per night |
+
+## 📦 Storage
+
+| Storage              | Capacity        | Price           |
+| -------------------- | --------------- | --------------- |
+| Personal Chest       | 10 items        | 5gp per night   |
+| Large Personal Chest | 25 items        | 15gp per night  |
+| Magical Chest        | 10 items        | 50gp per night  |
+| Vault                | Unlimited Items | 100gp per night |
+
+**Notes:**
+
+- 500gp = 1 item
+
+- Magical Chest is for magical, cursed and dangerous objects.
